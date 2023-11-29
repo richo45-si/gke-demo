@@ -14,4 +14,4 @@ steps:
 - script: |
     terraform init
     terraform plan
-  displayName: 'Terraform'
+  displayName: 'Terraform Script'
